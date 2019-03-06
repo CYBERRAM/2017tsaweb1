@@ -1,0 +1,121 @@
+<DOCTYPE html>
+<title>Photo Gallery</title>
+<head>
+	<link rel="stylesheet" type="text/css" href="../fob.css">
+</head>
+<img src="../FOBlogo.jpeg" alt="Fall Out Boy Band" width="400px" height="350px">
+<table id="navigation"> <!--This is the menu, all body code should go after the end table tag-->
+	<th><a href="../index.html">Home</a></th>
+
+	<th><a href="../Photos/Photos.html">Photos</a></th>
+
+	<th><a href="../BandBio/BandBio.html">Biography</a></th>
+
+	<th><a href="../TourDates/tourdates.html">Tour Dates</a></th>
+
+	<th><a href="../Lyrics/Lyrics.html">Song Samples and Lyrics</a></th>
+
+	<th><a href="../Merch/Merch.html">Merch Shop</a></th>
+
+	<th><a href="../MusicDownloads/FOBMusicDownloads.html">Music Downloads</a></th>
+
+	<th><a href="../Forum/FOBForum.html">Forum</a></th>
+</table>
+<head><h1><center>Photo Gallery<center></h1></head>
+<body>
+<center>
+<div style="width: 750px; font-size:80%; text-align:center;">
+
+<img src="https://www.billboard.com/files/styles/article_main_image/public/media/bb02-fall-out-boy-1-2015-billboard-650.jpg" alt="Fall Out Boy photographed on Dec. 19, 2014"> 
+
+<br>
+<style="padding-bottom:0.5em;"> 
+<h2>Fall Out Boy photographed on Dec. 19, 2014 at Tom Lowe Trap & Skeet in Atlanta, Georgia.</h2></div>
+</center>
+
+<br>
+<br>
+
+<center>
+<div style="width: 700px; font-size:80%; text-align:center;">
+<img src="https://www.billboard.com/files/styles/900_wide/public/media/bb02-fall-out-boy-3-2015-billboard-650.jpg" height="400" width="600" alt="Fall Out Boy: The Billboard Photo Shoot" style="padding-bottom:0.5em;">
+<br>
+<h2>Fall Out Boy: The Billboard Photo Shoot, 2014</h2></div>
+</center>
+<br>
+<br>
+
+<center>
+<div style="width:image width px; font-size:80%; text-align:center;">
+<img src="http://abcnewsradioonline.com/storage/music-news-images/M_FallOutBoyonLeno.jpg?__SQUARESPACE_CACHEVERSION=1368586057190" alt="" style="padding-bottom:0.5em;">
+</div>
+</center>
+<br>
+<br>
+
+<center>
+<div style="width:image width px; font-size:80%; text-align:center;">
+<img src="https://www.billboard.com/files/styles/article_main_image/public/media/fall-out-boy-performance-bbmas-show-2015-billboard-650.jpg" alt="Fall Out Boy perform onstage during the 2015 Billboard Music Awards" style="padding-bottom:0.5em;">
+<br>
+
+<h2>Fall Out Boy performs onstage during the 2015 Billboard Music Awards at MGM Grand Garden Arena on May 17, 2015 in Las Vegas, Nevada. </h2></div>
+</center>
+<br>
+<br>
+
+<center>
+<div style="width:image width px; font-size:80%; text-align:center;">
+<center><img src="https://music-b26f.kxcdn.com/wp-content/uploads/2015/01/fall-out-boy-770x470.jpg" alt="Fall Out Boy at Honda Center 9/29" style="padding-bottom:0.5em;">
+<br>
+
+<h2>Fall Out Boy at Honda Center 9/29</h2>
+</div>
+</center>
+<br>
+<br>
+
+<center>
+<div style="width:image width px; font-size:80%; text-align:center;">
+<img src="https://i0.wp.com/substreammagazine.com/wp-content/uploads/2017/05/Fall-Out-Boy-BW.jpg?resize=1068%2C601&ssl=1" width="700" height="400" alt="Fall Out Boy Mania" style="padding-bottom:0.5em;">
+<br>
+<h2>Fall Out Boy Mania</h2>
+
+</div>
+</center>
+<br>
+<br>
+
+<center>
+<div style="width:image width px; font-size:80%; text-align:center;">
+<img src="https://www.wpbmagazine.com/wp-content/uploads/2015/01/American-Beauty-American-Psycho-by-Fall-Out-Boy-1-1068x730.jpg" width="700" height="400" alt="Frontside Photo of Fall Out BOy" style="padding-bottom:0.5em;">
+<br>
+<h2>Frontside Photo of Fall Out Boy</h2>
+
+</div>
+</center>
+
+</body>
+<footer>
+<hr>
+<p>
+<a href="https://twitter.com/falloutboy">
+<img src="../twitter.png" height="64" width="64">
+</a>
+
+<a href="https://www.facebook.com/falloutboy">
+<img src="../facebook.png" height="64" width="64">
+</a>
+
+<a href="https://www.instagram.com/falloutboy/">
+<img src="../instagram.png" height="64" width="64">
+</a>
+
+<a href="https://www.youtube.com/user/falloutboy">
+<img src="../youtube.png" height="64" width="64">
+</a>
+
+<a href="https://www.reddit.com/r/FallOutBoy/">
+<img src="../reddit.png" height="64" width="64">
+</a>
+</p>
+</footer>
