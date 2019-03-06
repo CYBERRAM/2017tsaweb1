@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html>
+<header><title>Fall Out Boy</title></header>
+<header>
+<link type="text/css" rel="stylesheet" href="../fob.css">
+<img src="FOBlogo.jpeg" alt="Fall Out Boy Band" width="400px" height="350px">
+</header
+<body>
+<table id="navigation"> <!--This is the menu, all body code should go after the end table tag-->
+
+	<th><a href="../index.html">Home</a></th>
+
+	<th>Photos</th>
+
+	<th>Biography</th>
+
+	<th><a href="../TourDates/tourdates.html">Tour Dates</a></th>
+
+	<th><a href="../Lyrics/Lyrics.html">Song Samples and Lyrics</a></th>
+
+	<th>Merch Shop</th>
+
+	<th><a href="../MusicDownloads/FOBMusicDownloads.html">Music Downloads</a></th>
+
+	<th><a href="../Forum/FOBForum.html">Forum</a></th>
+
+
+</table>
+
+
+<h1>Fall Out Boy's Music</h1>
+<h2>Where to Download</h2>
+
+<table id="musicdownloads"> 
+<tr>
+	<td><a href="https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX">Spotify</a></td>
+</tr>
+<tr>
+	<td><a href="https://itunes.apple.com/us/artist/fall-out-boy/28673423">Apple Music</a></td>
+</tr>
+<tr>
+	<td><a href="https://itunes.apple.com/us/artist/fall-out-boy/28673423?app=itunes&ign-mpt=uo%3D4">ITunes</a></td>
+</tr>
+<tr>
+	<td><a href="https://play.google.com/store/music/artist/Fall_Out_Boy?id=Ak4wffz56p73dxldp5dnrenp2ly&hl=en">Google Play</a></td>
+</tr>
+<tr>
+	<td><a href="https://www.amazon.com/Fall-Out-Boy/e/B000APSPUW/digital/ref=ntt_mp3_rdr?_encoding=UTF8&sn=d&tag=ton08-20">Amazon</a></td>
+</tr>
+<tr>
+	<td><a href="https://www.youtube.com/user/falloutboy">Youtube</a></td>
+</tr>
+</table>
+
+</body>
+
+<hr>
+
+<footer>
+<p>
+<a href="https://twitter.com/falloutboy">
+<img src="../twitter.png" height="64" width="64">
+</a>
+
+<a href="https://www.facebook.com/falloutboy">
+<img src="../facebook.png" height="64" width="64">
+</a>
+
+<a href="https://www.instagram.com/falloutboy/">
+<img src="../instagram.png" height="64" width="64">
+</a>
+
+<a href="https://www.youtube.com/user/falloutboy">
+<img src="../youtube.png" height="64" width="64">
+</a>
+
+<a href="https://www.reddit.com/r/FallOutBoy/">
+<img src="../reddit.png" height="64" width="64">
+</a>
+</p>
+</footer>
+</html>

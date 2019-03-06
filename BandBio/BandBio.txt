@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<header><title>Fall Out Boy</title></header>
+<head>
+	<link rel="stylesheet" type="text/css" href="../fob.css">
+</head>
+<img src="FOBlogo.jpeg" alt="Fall Out Boy Band" width="400px" height="350px">
+<table id="navigation"> <!--This is the menu, all body code should go after the end table tag-->
+	<th><a href="../index.html">Home</a></th>
+
+	<th>Photos</th>
+
+	<th><a href="../BandBio/BandBio.html">Biography</a></th>
+
+	<th><a href="../TourDates/tourdates.html">Tour Dates</a></th>
+
+	<th><a href="../Lyrics/Lyrics.html">Song Samples and Lyrics</a></th>
+
+	<th>Merch Shop</th>
+
+	<th><a href="../MusicDownloads/FOBMusicDownloads.html">Music Downloads</a></th>
+
+	<th><a href="../Forum/FOBForum.html">Forum</a></th>
+</table>
+
+<img src="fob.jpg" alt="The Entire Fall Out Boy Band" width="600" height="315">
+
+<body>
+<p>Fall Out Boy is an American Rock band composed of lead vocalist and rhythm guitarist Patrick Stump, bassist Pete Wentz, lead guitarist Joe Trohman, and drummer Andy Hurley. The band was started in Chicago in 2001 and was started by Wentz and Trohman. The band’s debut album was called “Take this to your grave” and was a huge underground success that led to the bands gain in fame and followers. Fall Out Boy has received many awards for their music over the years for their music. The band decided to take a hiatus from 2009-2012 but then came back together in 2013 and produced “Save rock and roll”, which was a widely successful album and helped them regain their audience. To date, Fall Out Boy has released 7 studio albums, 2 live albums, 1 compilation album, eight extended plays, thirty-one singles, and forty-seven music videos.</p>
+
+<table>
+<tr>
+  <th>Patrick Stump</th>
+
+  <th>Pete Wentz</th>
+
+  <th>Joe Trohman</th>
+
+  <th>Andy Hurley</th>
+</tr>
+
+<tr>
+  <td>Patrick Vaughn Stump was born on April 27, 1984 in Evanston, Illinois,U.S. 
+Stump came to Fall Out Boy, by sharing a musical interest with Joe Trohman the founding guitarist. After originally auditioning for the drummer, Patrick became the lead singer and guitarist of the band. In 2003, the band members signed with Island Records, they released an EP(extended play) My Heart Will Always Be the B-Side to My Tongue. The EP was No. 153 on the BillBoards 200. On May 3, 2005, Fall Out Boy released their album From Under The Cork Tree, it was certificated double-platinum by the RIAA and sold more than 2.5 million sales. Their single “Sugar We’re  Goin’ Down” reached No. 9 on the Hot 100 and was played a lot on Pop and Alternative radios.</td>
+
+  <td>Peter Lewis Kingston Wentz III was born June 5, 1979 in Wilmette, Illinois. Pete is the bassist, backing vocalist, and primary lyricist for Fall Out Boy. Pete was in several bands in the late 90s including First Born, Birthright, Extinction, Arma Angelus, Yellow Road Priest, and Racetraitor. In 2001, He and Arma Angelus' bassist Joe Trohman founded Fall Out Boy. Wentz has had three children in total. One boy (Mowgli Bronx) with his ex-wife Ashlee Simpson, and a boy and a girl (Saint Lazslo Wentz & Marvel Jane Wentz) with his current partner Meagan Camper.</td>
+
+  <td></td>
+
+  <td></td>
+</tr>
+</table>
+</body>
+
+<footer>
+<hr>
+<p>
+<a href="https://twitter.com/falloutboy">
+<img src="../twitter.png" height="64" width="64">
+</a>
+
+<a href="https://www.facebook.com/falloutboy">
+<img src="../facebook.png" height="64" width="64">
+</a>
+
+<a href="https://www.instagram.com/falloutboy/">
+<img src="../instagram.png" height="64" width="64">
+</a>
+
+<a href="https://www.youtube.com/user/falloutboy">
+<img src="../youtube.png" height="64" width="64">
+</a>
+
+<a href="https://www.reddit.com/r/FallOutBoy/">
+<img src="../reddit.png" height="64" width="64">
+</a>
+</p>
+</footer>

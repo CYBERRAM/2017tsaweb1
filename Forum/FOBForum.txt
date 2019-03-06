@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+<header><title>Fall Out Boy</title></header>
+<header>
+<link type="text/css" rel="stylesheet" href="../fob.css">
+<img src="FOBlogo.jpeg" alt="Fall Out Boy Band" width="400px" height="350px">
+</header
+<body>
+<table id="navigation"> <!--This is the menu, all body code should go after the end table tag-->
+
+	<th><a href="../index.html">Home</a></th>
+
+	<th>Photos</th>
+
+	<th>Biography</th>
+
+	<th><a href="../TourDates/tourdates.html">Tour Dates</a></th>
+
+	<th><a href="../Lyrics/Lyrics.html">Song Samples and Lyrics</a></th>
+
+	<th>Merch Shop</th>
+
+	<th><a href="../MusicDownloads/FOBMusicDownloads.html">Music Downloads</a></th>
+	
+        <th><a href="../Forum/FOBForum.html">Forum</a></th>
+
+
+</table>
+
+<h1>Fan Forum<h1>
+<h2><a href="https://www.reddit.com/r/FallOutBoy/">Join the FOB Reddit!</a></h2>
+<h2><a href="https://falloutboy.com/sign-up/">For updates on all the latest FOB happenings, sign up for the FOB newsletter!</a></h2>
+<h2><a href="https://discord.gg/JKFy4jj">Can't get enough FOB? Join the discord and connect with more fans</a></h2>
+
+
+
+</body>
+
+<hr>
+
+<footer>
+<p>
+<a href="https://twitter.com/falloutboy">
+<img src="../twitter.png" height="64" width="64">
+</a>
+
+<a href="https://www.facebook.com/falloutboy">
+<img src="../facebook.png" height="64" width="64">
+</a>
+
+<a href="https://www.instagram.com/falloutboy/">
+<img src="../instagram.png" height="64" width="64">
+</a>
+
+<a href="https://www.youtube.com/user/falloutboy">
+<img src="../youtube.png" height="64" width="64">
+</a>
+
+<a href="https://www.reddit.com/r/FallOutBoy/">
+<img src="../reddit.png" height="64" width="64">
+</a>
+</p>
+</footer>
+</html>
